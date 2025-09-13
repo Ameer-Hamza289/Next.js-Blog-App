@@ -110,7 +110,7 @@ Admin dashboard will also be available on http://localhost:300/editor/posts
 
 ## 🙇 Author
 
-- Tim ([@timtbdev](https://twitter.com/timtbdev))
+- Ameer Hamza ([@Ameer-Hamza](https://github.com/Ameer-Hamza289))
 
 ## License
 
